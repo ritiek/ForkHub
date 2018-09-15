@@ -18,13 +18,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto" >
 
     <item
-        android:id="@+id/m_follow"
-        app:showAsAction="never"
-        android:title="@string/follow" />
-
-    <item
         android:id="@+id/m_open_browser"
         app:showAsAction="never"
         android:title="@string/open_in_browser" />
+
+    <item
+        android:id="@+id/m_follow"
+        app:showAsAction="never"
+        android:title="@string/follow" />
 
 </menu>
